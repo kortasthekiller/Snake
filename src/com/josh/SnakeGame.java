@@ -6,7 +6,10 @@ import javax.swing.*;
 
 
 public class SnakeGame {
-
+	//TO DO add method to ask user if they want to change the size of the screen//
+	//	if yes, ask the dimensions wanted and set to xSquares and ySquares//
+	//TO DO give a range to make sure not too small or too big//
+	
 	public final static int xPixelMaxDimension = 501;  //Pixels in window. 501 to have 50-pixel squares plus 1 to draw a border on last square
 	public final static int yPixelMaxDimension = 501;
 
