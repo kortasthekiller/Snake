@@ -6,6 +6,15 @@ import javax.swing.*;
 
 
 public class SnakeGame {
+	
+	//***OPTIONS MENU***///
+	//1. change window size
+	//2. change speed
+	//3. change color(later if time allows)
+	
+	//TO DO setup switch statement to call methods for the options available//
+	
+	
 	//TO DO add method to ask user if they want to change the size of the screen//
 	//	if yes, ask the dimensions wanted and set to xSquares and ySquares//
 	//TO DO give a range to make sure not too small or too big//
