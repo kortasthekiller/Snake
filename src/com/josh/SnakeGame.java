@@ -14,10 +14,18 @@ public class SnakeGame {
 	
 	//TO DO setup switch statement to call methods for the options available//
 	
-	
+	//***1. change window size***
 	//TO DO add method to ask user if they want to change the size of the screen//
 	//	if yes, ask the dimensions wanted and set to xSquares and ySquares//
 	//TO DO give a range to make sure not too small or too big//
+	
+	//***2. change speed
+	//TO DO add method to change speed, offer 1-3 (1 normal, 3 fastest), switch to give set speed depending on the their request//
+	//change clockInterval to 1 = 1000, 2 = 2000 and 3 - 3000 (make sure this is the correct order making 1 the slowest)
+	//make sure 
+	
+	
+	
 	
 	public final static int xPixelMaxDimension = 501;  //Pixels in window. 501 to have 50-pixel squares plus 1 to draw a border on last square
 	public final static int yPixelMaxDimension = 501;
